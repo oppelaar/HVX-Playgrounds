@@ -1,7 +1,7 @@
 {
 	"title":"HVX Mondriaan Code",
 	"publisherName":"Herbert Vissers eXplore",
-	"feedIdentifier":io.github.playgrounds",
+	"feedIdentifier":io.github.oppelaar",
 	"contactURL":"mailto:ej.oppelaar@hvc.nl",
 	"formatVersion":"1.0",
 	"documents": [
@@ -10,9 +10,9 @@
 		"overviewSubtitle":"Maak je eigen digitale kunst",
 		"detailSubtitle":"Maak je eigen digitale Mondriaanschilderij",
 		"description":"Maak je eigen digitale Mondriaanschilderij",
-		"contentIdentifier":"io.github.playgrounds.MondrianCode"
+		"contentIdentifier":"io.github.oppelaar.MondrianCode"
 		"contentVersion":"1.0",
-		"url","https://github.com/oppelaar/Playgrounds/blob/master/MondrianCode/Mondrian%20Code.playgroundbook.zip",
+		"url","https://oppelaar.github.io/HVX-Playgrounds/MondrianCode/Mondrian%20Code.playgroundbook.zip",
 		"additionalInformation":[
 			{
 				"name":"Languages",
