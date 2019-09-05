@@ -17,6 +17,7 @@
 		"thumbnailURL":"MondrianCode/ThumbnailImage.png",
 		"bannerImageURL":"MondrianCode/BannerImage.png",
 		"url":"MondrianCode/MondrianCode.playgroundbook.zip",
+		"previewImageURLs":["MondrianCode/preview-1.jpeg"],
 		"additionalInformation":[
 			{
 				"name":"Languages",
