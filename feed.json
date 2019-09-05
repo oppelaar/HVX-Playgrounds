@@ -9,13 +9,13 @@
 		"title":"Programmeer je eigen Mondriaanschilderij",
 		"overviewSubtitle":"Maak je eigen digitale kunst",
 		"description":"Maak je eigen digitale Mondriaanschilderij",
-		"contentIdentifier":"io.github.oppelaar.MONDRIANCODE",
+		"contentIdentifier":"io.github.oppelaar.MondrianCode",
 		"contentVersion":"1.0",
 		"publishedDate":"2019-09-08T00:00:00+02:00",
 		"lastUpdatedDate":"2019-09-08T00:00:00+02:00",
 		"thumbnailUrl":"MondrianCode/ThumbnailImage.png",
 		"bannerImageUrl":"MondrianCode/BannerImage.png",
-		"url":"MondrianCode/Mondrian-Code.playgroundbook.zip",
+		"url":"MondrianCode/MondrianCode.playgroundbook.zip",
 		"additionalInformation":[
 			{
 				"name":"Languages",
