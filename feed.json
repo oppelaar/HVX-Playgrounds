@@ -1,7 +1,7 @@
 {
 	"title":"HVX Playgrounds",
 	"publisherName":"Herbert Vissers eXplore",
-	"feedIdentifier":io.github.oppelaar.HVX-Playgrounds",
+	"feedIdentifier":"io.github.oppelaar.HVX-Playgrounds",
 	"contactURL":"mailto:ej.oppelaar@hvc.nl",
 	"formatVersion":"1.0",
 	"documents": [
