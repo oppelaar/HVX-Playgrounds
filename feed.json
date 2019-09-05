@@ -12,7 +12,13 @@
 		"description":"Maak je eigen digitale Mondriaanschilderij",
 		"contentIdentifier":"io.github.playgrounds.MondrianCode"
 		"contentVersion":"1.0",
-		"url",""
+		"url","https://github.com/oppelaar/Playgrounds/blob/master/MondrianCode/Mondrian%20Code.playgroundbook.zip",
+		"additionalInformation":[
+			{
+				"name":"Languages",
+				"value":"Dutch"
+			}
+		]
 		}
 	]
 }
