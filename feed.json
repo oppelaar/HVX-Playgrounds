@@ -10,9 +10,9 @@
 		"overviewSubtitle":"Maak je eigen digitale kunst",
 		"detailSubtitle":"Maak je eigen digitale Mondriaanschilderij",
 		"description":"Maak je eigen digitale Mondriaanschilderij",
-		"contentIdentifier":"io.github.oppelaar.HVX-Playgrounds.MondrianCode",
+		"contentIdentifier":"io.github.oppelaar.MondrianCode",
 		"contentVersion":"1.0",
-		"url":"MondrianCode/Mondrian-Code.playgroundbook.zip",
+		"url":"https://oppelaar.github.io/HVX-Playgrounds/MondrianCode/Mondrian-Code.playgroundbook.zip",
 		"additionalInformation":[
 			{
 				"name":"Languages",
